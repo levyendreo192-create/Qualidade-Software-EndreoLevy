@@ -1,1 +1,8 @@
-
+## REQUISITOS DO PROJETO
+1. Criar um repositório público no GitHub
+2. Criar os arquivos solicitados 
+3. Realizar no mínimo 5 commits
+4. Criar pelo menos 1 branch
+5. Realizar 1 pull request 
+6. Fazer 1 merge 
+7. Registrar as descobertas no relatório
