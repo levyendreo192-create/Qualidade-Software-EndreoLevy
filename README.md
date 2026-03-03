@@ -1,6 +1,7 @@
 # Projeto -Qualidade de Software
 ## Nome da Dupla
 Aluno 1: Endreo Levy
+/
 Aluno 2: Warner Thiery
 
 ## Objetivo do Trabalho
