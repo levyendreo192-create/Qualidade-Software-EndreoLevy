@@ -1,3 +1,0 @@
-1. Realizar os commits necessários 
-2. Manutenção de possiveis erros
-3. Criar uma Branch para alterações fora da Main
