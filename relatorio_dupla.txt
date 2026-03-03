@@ -1,5 +1,0 @@
-## Relatório
-1. Uso do commit para alterar e criar relatórios, plano_teste, requisitos.
-2. Criação da Branch para alterar arquivos fora da Main 
-3. Erro de pasta vazia na Branch 
-4.
