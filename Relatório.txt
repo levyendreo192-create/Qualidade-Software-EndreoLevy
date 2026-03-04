@@ -3,4 +3,8 @@
 2. Criação da Branch para alterar arquivos fora da Main 
 3. Erro de pasta vazia na Branch 
 4. Resolução do erro 3 (uso de Autosave)
-5. Mal uso do Merge
+5. A branch deve conter todas as pastas da main sendo alterado apenas a parte necessária 
+6. Mal uso do Merge
+7. Dificuldade em retornar a versão antes do erro
+8. Refazer as pastas e cessar o erro 
+9. uso do CMD para baixar o repositorio e aplicar as alterações
